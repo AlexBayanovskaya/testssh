@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GeneralTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-10-09T20:11:49" hostname="DESKTOP-ILFA5EQ" time="0.024">
+  <properties/>
+  <testcase name="testA" classname="GeneralTest" time="0.01"/>
+  <testcase name="testB" classname="GeneralTest" time="0.004"/>
+  <testcase name="testC" classname="GeneralTest" time="0.002"/>
+  <system-out><![CDATA[testBeforeClass
+testBefore
+A
+testAfter
+testBefore
+B
+testAfter
+testBefore
+C
+testAfter
+testAfterClass
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
